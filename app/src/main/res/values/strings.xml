@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GadkiePredriyatiya</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="textview">Название</string>
+    <string name="textview3">Организация</string>
+    <string name="textview2">Припортовый парк ст. "Балтийский лес"</string>
+    <string name="textview5">Общество с ограниченной ответственностью "ЛУКОЙЛ-Комплексный нефтяной терминал" (Дата регистрации 2008-10-01)</string>
+    <string name="textview7">Уровень надзора</string>
+    <string name="textview8">Федеральный, II-я категория</string>
+    <string name="textview9">Категория риска</string>
+    <string name="textview10">Значительная (3)</string>
+    <string name="button">Сведения по сбросам загрязняющих веществ</string>
+    <string name="button2">Сведения по выбросам в атмосферу</string>
+    <string name="button3">Технические средства, использованные для замеров</string>
+    <string name="button4"><![CDATA[<< назад]]></string>
+    <string name="textview11">27-0139-000243-П</string>
+</resources>
